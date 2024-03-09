@@ -1,0 +1,15 @@
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/Stok Task.csproj.AssemblyReference.cache
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/Stok Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/Stok Task.AssemblyInfoInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/Stok Task.AssemblyInfo.cs
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/Stok Task.csproj.CoreCompileInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/bin/Debug/net7.0/Stok Task
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/bin/Debug/net7.0/Stok Task.deps.json
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/bin/Debug/net7.0/Stok Task.runtimeconfig.json
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/bin/Debug/net7.0/Stok Task.dll
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/bin/Debug/net7.0/Stok Task.pdb
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/Stok Task.dll
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/refint/Stok Task.dll
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/Stok Task.pdb
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/Stok Task.genruntimeconfig.cache
+/Users/zairovv/Desktop/IT brains tasks/Stok Task/Stok Task/obj/Debug/net7.0/ref/Stok Task.dll
